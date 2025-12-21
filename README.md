@@ -1,7 +1,7 @@
 # MIDI Hammond Pedals
 
 A full **12-key MIDI foot controller** built using vintage **Hammond M3 bass pedals**, designed for expressive, hands-free control in live performance and studio use.
-
+![IMG_2283](https://github.com/user-attachments/assets/994a171a-f25e-4947-877d-70fcfcf7be30)
 This project combines hardware modification, embedded programming, and MIDI control to create a flexible pedalboard capable of note input, parameter control, and effects triggering.
 
 ## Overview
